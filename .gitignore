@@ -15,3 +15,6 @@ venv*/
 
 # TLS keys (Let's encrypt)
 *.key
+
+# Vim
+*.swp
