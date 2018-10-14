@@ -9,7 +9,6 @@
 
 # Django static and media folders
 media
-static
 
 # Python virtual environments
 venv*/
